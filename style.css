@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+}
+
+h1{
+    font-size:40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+#App{
+    background-color: rgb(81, 12, 137);
+}
+
+.line{
+    height: 6px;
+    background-color: cornflowerblue;
+    width: 100px;
+    margin: 8px auto;
+}
+
+#jogo{
+    background-color: rgb(135, 206, 117);
+}
+
+#chat{
+    background-color: rgb(117, 166, 206);
+}
